@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Google Sans",
+    "previewText": "Google Sans Font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-Bold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-BoldItalic": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-Medium": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-MediumItalic": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-Normal": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "NotoSans-Bold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "NotoSans-ExtraBold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "NotoSans-Medium": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "NotoSans-Normal": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "NotoSans-Semibold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf",
+        "SourceCodePro-Semibold": "https://github.com/hprobotic/Google-Sans-Font/blob/master/GoogleSans-Regular.ttf"
+    }
+}
